@@ -2,7 +2,11 @@
 
 **`Desenvolvedor de Jogos | Game Designer | Programador C#`**
 
-Me chamo Luiz Henrique Sotana Garrido, sou desenvolvedor de jogos apaixonado por criação interativa e narrativa. Tenho experiência tanto na parte de design quanto de programação, utilizando linguagens como C# e ferramentas como **Unity**, **GameMaker** e **Unreal Engine**. Também compartilho meu conhecimento e projetos no meu canal do YouTube, onde exploro o mundo do desenvolvimento de games e tecnologia.
+Me chamo Luiz Henrique Sotana Garrido, sou desenvolvedor de jogos apaixonado por criação interativa e narrativa. Tenho experiência tanto na parte de design quanto de programação, utilizando linguagens como **C#** e ferramentas como **Unity**, **GameMaker** e **Unreal Engine**. 
+
+Tenho também habilidades em **pixel art**, utilizando o **Aseprite** para criação de personagens, cenários e interfaces em estilo retrô, além de experiência em **modelagem 3D** com **Blender**, criando objetos, personagens e animações para jogos.
+
+Também compartilho meu conhecimento e projetos no meu perfil do linkedin, onde exploro o mundo do desenvolvimento de games e tecnologia.
 
 [🔗 Canal no YouTube - Luiz Universo Oficial](https://www.youtube.com/@luizuniversooficial7728)  
 [🔗 LinkedIn - Luiz Henrique Sotana Garrido](https://www.linkedin.com/in/luiz-henrique-sotana-garrido-978472291/)
@@ -69,6 +73,22 @@ Me chamo Luiz Henrique Sotana Garrido, sou desenvolvedor de jogos apaixonado por
 />
 <img 
     align="left" 
+    alt="Blender" 
+    title="Blender" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Aseprite" 
+    title="Aseprite" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aseprite/aseprite-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git" 
     width="30px" 
@@ -114,3 +134,4 @@ Me chamo Luiz Henrique Sotana Garrido, sou desenvolvedor de jogos apaixonado por
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizRusso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 </p>
+
